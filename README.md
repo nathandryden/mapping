@@ -1,2 +1,8 @@
 # Minneapolis Public School District Maps
-<iframe width="500" height="300" allow="geolocation" src="https://api.maptiler.com/maps/019dc0a2-4813-7596-8c9d-d2a95373ac95/?key=ndgAHx3Q2ACzf2Sn02M3#1.0/0.00000/0.00000"></iframe>
+<iframe 
+  src="https://nathandryden.github.io/main/mps_school_districts_map.html" 
+  width="100%" 
+  height="400px" 
+  title="Embedded HTML Demo" 
+  sandbox="allow-scripts"  <!-- Allows the embedded HTML to run scripts -->
+></iframe>
